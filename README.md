@@ -58,4 +58,4 @@ Requires a Telegram Bot token and PostgreSQL connection string — see `.env.exa
 
 ## Status
 
-Built and deployed as part of an AI Engineering internship at Spinacle Technologies.
+An independent project, designed and built solo end-to-end.
